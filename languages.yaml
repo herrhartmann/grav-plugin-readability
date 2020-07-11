@@ -54,4 +54,4 @@ de:
       TITLE: Lesbarkeitsbericht umschalten
     MAX_WORDS:
       LABEL: Maximale Wortanzahl
-      DESCRIPTION: Begrenzt die Hervorhebung von Wörtern über einen bestimmten Betrag hinaus.
+      DESCRIPTION: Begrenzt die Hervorhebung von Wörtern über eine bestimmte Anzahl hinaus.
