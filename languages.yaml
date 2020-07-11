@@ -36,3 +36,22 @@ nb:
     MAX_WORDS:
       LABEL: Maksimum Ord
       DESCRIPTION: Begrenser utheving av ord etter en viss mengde.
+de:
+  PLUGIN_READABILITY:
+    NAME: Lesbarkeit
+    SUMMARY: Zusammenfassung
+    HIGHLIGHT: Hervorgehoben
+    DETAILS: Details
+    REQUIREMENTS:
+      AGE: Benötigtes Alter, um den Text zu lesen.
+      GRADE: Kompetenzsstufe, die benötigt wird, um dies zu lesen.
+    LANGUAGE:
+      DESCRIPTION: Zu verwendende Sprache für die Messung der Lesbarkeit.
+    TOOLTIPS:
+      LABEL: Tooltips
+      DESCRIPTION: Mit Tooltips auf Satz- und Wortschwierigkeiten hinweisen.
+    TOGGLE:
+      TITLE: Lesbarkeitsbericht umschalten
+    MAX_WORDS:
+      LABEL: Maximale Wortanzahl
+      DESCRIPTION: Begrenzt die Hervorhebung von Wörtern über einen bestimmten Betrag hinaus.
